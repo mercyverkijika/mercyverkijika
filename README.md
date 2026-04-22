@@ -15,21 +15,14 @@
 ## 🚀 About Me 
 Business Analyst with a background in data analytics across regulated high-stakes environments. I'm drawn to messy, complex data, the kind where the real insight is buried and i find the patterns that help organisations make better decisions.
 
-Two years in a fish hatchery taught me to read systems for early warning signd before problems escalate. T still bring that instinct to every analysis i work on.
+Two years in a fish hatchery taught me to read systems for early warning signs before problems escalate. T still bring that instinct to every analysis i work on.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-mercyverkijika.github.io/)
 
       
 🔭 Currently seeking Business Analyst Roles
+
 🛠️ Working with: Excel, SQL, Power BI
+
 🌱 Outside of work: you'll find me in the gym
-
-
-#### Business Intelligence & Analytics
-<p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
-</p>
