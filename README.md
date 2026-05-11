@@ -1,4 +1,4 @@
-# Mercy Burinyuy Verkijika
+# Hi there👋 , i'm mercy
 
 Data Analyst | SQL, Excel, Power BI | Healthcare Operations, Telecoms, Digital Media and Operations Analytics
 
@@ -10,7 +10,7 @@ My portfolio focuses on real-world analytics projects that turn messy operationa
 
 ---
 
-## Technical Skills
+## 📁 Technical Skills
 
 | Area | Skills |
 |---|---|
@@ -24,7 +24,7 @@ My portfolio focuses on real-world analytics projects that turn messy operationa
 
 ## Featured Analytics Projects
 
-### Everwell Care Services: Care Delivery and CQC Regulatory Readiness Analysis
+### 🏥 Everwell Care Services: Care Delivery and CQC Regulatory Readiness Analysis
 
 A healthcare operations analytics project focused on UK domiciliary care service delivery, compliance visibility, rota pressure, medication risk, staff compliance, care plan reviews, and CQC readiness.
 
@@ -40,7 +40,7 @@ Tools used: SQL, Excel, Power BI, Power Query, DAX
 
 ---
 
-### Nexora Commerce Ltd: Commercial Performance and GMV Leakage Analysis
+### 🛒 Nexora Commerce Ltd: Commercial Performance and GMV Leakage Analysis
 
 A commercial analytics project focused on e-commerce marketplace performance, revenue leakage, seller concentration, order trends, delivery risk, and GMV performance.
 
