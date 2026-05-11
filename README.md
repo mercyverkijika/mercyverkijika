@@ -2,13 +2,11 @@
 
 I am a Data Analyst with experience across healthcare operations, telecoms, digital media, and production-based environments, combining strong analytical discipline with practical business problem-solving. I use SQL, Excel, and Power BI to analyse complex datasets, build KPI dashboards, improve reporting visibility, and identify risks across commercial performance, service delivery, rota planning, compliance, and CQC readiness.
 
-My portfolio focuses on real-world analytics projects that turn messy operational and commercial data into clear insights, stakeholder-ready dashboards, and practical recommendations that support better decisions, stronger controls, and measurable process improvement.
-
 [LinkedIn](https://www.linkedin.com/in/mercy-verkijika-79b779178/) | [Email](mailto:mercyverkijika@gmail.com) | [GitHub Projects](https://github.com/mercyverkijika)
 
 ---
 
-## 📁 Technical Skills
+## 📁 Skills
 
 | Area | Skills |
 |---|---|
@@ -54,20 +52,6 @@ Tools used: SQL, Excel, Power BI, Power Query, DAX
 
 ---
 
-## What Makes My Portfolio Different
+## 🎯 Current Career Focus
 
-My projects are designed as stakeholder-ready business deliverables, not just technical exercises. Each project includes a clear business problem, data cleaning process, KPI logic, dashboard output, insights, and recommendations.
-
-I focus on answering practical business questions such as:
-
-- Where is operational risk concentrated?
-- Which processes are creating avoidable inefficiency?
-- Which customers, clients, sellers, campaigns, or service areas need attention?
-- What should managers prioritise based on the evidence?
-- How can dashboards improve visibility and decision-making?
-
----
-
-## Current Career Focus
-
-I am seeking a new role with greater responsibility and challenges, where I can combine data analysis, stakeholder communication, process improvement, responsible technology adoption, and operational problem-solving to deliver data-driven solutions with measurable business impact.
+I am seeking a new role with more responsibilities and challenges, where I can combine data analysis, stakeholder communication, process improvement, responsible technology adoption, and operational problem-solving to deliver data-driven solutions with measurable business impact.
