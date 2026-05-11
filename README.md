@@ -1,7 +1,5 @@
 # Hi there👋 , i'm mercy
 
-Data Analyst | SQL, Excel, Power BI | Healthcare Operations, Telecoms, Digital Media and Operations Analytics
-
 I am a Data Analyst with experience across healthcare operations, telecoms, digital media, and production-based environments, combining strong analytical discipline with practical business problem-solving. I use SQL, Excel, and Power BI to analyse complex datasets, build KPI dashboards, improve reporting visibility, and identify risks across commercial performance, service delivery, rota planning, compliance, and CQC readiness.
 
 My portfolio focuses on real-world analytics projects that turn messy operational and commercial data into clear insights, stakeholder-ready dashboards, and practical recommendations that support better decisions, stronger controls, and measurable process improvement.
@@ -24,7 +22,7 @@ My portfolio focuses on real-world analytics projects that turn messy operationa
 
 ## Featured Analytics Projects
 
-### 🏥 Everwell Care Services: Care Delivery and CQC Regulatory Readiness Analysis
+### 🏥 Care Delivery and CQC Regulatory Readiness Analysis
 
 A healthcare operations analytics project focused on UK domiciliary care service delivery, compliance visibility, rota pressure, medication risk, staff compliance, care plan reviews, and CQC readiness.
 
@@ -40,7 +38,7 @@ Tools used: SQL, Excel, Power BI, Power Query, DAX
 
 ---
 
-### 🛒 Nexora Commerce Ltd: Commercial Performance and GMV Leakage Analysis
+### 🛒 Commercial Performance and GMV Leakage Analysis
 
 A commercial analytics project focused on e-commerce marketplace performance, revenue leakage, seller concentration, order trends, delivery risk, and GMV performance.
 
