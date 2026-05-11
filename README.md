@@ -1,6 +1,6 @@
 # Hi there👋 , i'm mercy
 
-I am a Data Analyst with experience across healthcare operations, telecoms, digital media, and production-based environments, combining strong analytical discipline with practical business problem-solving. I use SQL, Excel, and Power BI to analyse complex datasets, build KPI dashboards, improve reporting visibility, and identify risks across commercial performance, service delivery, rota planning, compliance, and CQC readiness.
+I am a Data Analyst with experience across healthcare operations, telecoms, digital media, and production-based environments, combining strong analytical discipline with practical business problem-solving. I use SQL, Excel, and Power BI to analyse complex datasets, build KPI dashboards, improve reporting visibility, and identify risks across commercial performance, service delivery and compliance.
 
 [LinkedIn](https://www.linkedin.com/in/mercy-verkijika-79b779178/) | [Email](mailto:mercyverkijika@gmail.com) | [GitHub Projects](https://github.com/mercyverkijika)
 
